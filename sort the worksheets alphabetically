@@ -1,5 +1,7 @@
-Press atl + f11 to get into VBA code
-
+Open the VBA editor (Alt + F11).
+Insert a new module (Insert > Module).
+Paste the code into the module.
+Run the macro (F5 or the Play button) while your target workbook is active. 
 
 
 # This code will sort the worksheets alphabetically# 
